@@ -6,4 +6,5 @@ templates:
   extended: Extended Robot Framework template
   python: Basic Python template
   playwright: Playwright template
+  producer-consumer: Producer-consumer model template
   test: Test custom template
