@@ -1,0 +1,10 @@
+hash: 6bbf0404a924045826971d55c0f4ad62d91dfe59b226f4ee9f48ed6808a1efe3 
+url: https://github.com/TimothyLopas/custom-robocrop-templates/blob/main/templates-1.0.0.zip?raw=true
+date: 2022-08-02 
+templates: 
+  standard: Standard Robot Framework template 
+  extended: Extended Robot Framework template 
+  python: Basic Python template 
+  playwright: Playwright template 
+  producer-consumer: Producer-consumer model template 
+  custom-template: custom template 
